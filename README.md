@@ -8,7 +8,9 @@
   </a>
 </h1>
 
-I'm a software architect with a passion for creating products that simplify problems and make people smile.
+I'm passionate about:
+- 😊 creating products that simplify problems and make people smile
+- 
 
 
 ### Working on
