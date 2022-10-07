@@ -10,7 +10,9 @@
 
 I'm passionate about:
 - 😊 creating products that simplify problems and make people smile
-- 
+- ✨ frontend development
+- 🙋‍♀️ user experience
+- ⚙️ dev-ops automation
 
 
 ### Working on
