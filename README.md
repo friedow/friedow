@@ -13,8 +13,12 @@ I'm a software architect with a passion for creating products that simplify prob
 
 ### Working on
 
-<img src=https://user-images.githubusercontent.com/17351844/194490664-ef7704a7-b054-4567-98b2-bd2704636f94.png width="700px" />
-<img src=https://user-images.githubusercontent.com/17351844/194489911-9bde5663-630b-4a35-ad29-39bcb60b2602.png width="700px" />
+<a href="https://github.com/dot-base" target="_blank">
+  <img src=https://user-images.githubusercontent.com/17351844/194489911-9bde5663-630b-4a35-ad29-39bcb60b2602.png width="700px" />
+</a>
+<a href="https://github.com/friedow/search" target="_blank">
+  <img src=https://user-images.githubusercontent.com/17351844/194490664-ef7704a7-b054-4567-98b2-bd2704636f94.png width="700px" />
+</a>
 
 
 ### Some Stats
