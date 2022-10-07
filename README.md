@@ -12,7 +12,7 @@ I'm passionate about:
 
 
 ### Working on
- target="_blank"
+
 <a href="https://github.com/dot-base"><img src=https://user-images.githubusercontent.com/17351844/194489911-9bde5663-630b-4a35-ad29-39bcb60b2602.png width="700px" /></a>
 <a href="https://github.com/friedow/search"><img src=https://user-images.githubusercontent.com/17351844/194490664-ef7704a7-b054-4567-98b2-bd2704636f94.png width="700px" /></a>
 
