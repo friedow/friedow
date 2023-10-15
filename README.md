@@ -5,27 +5,7 @@
 </h1>
 
 I'm passionate about:
-- 😊 creating products that simplify problems and make people smile
-- ✨ frontend development
+- ❤️ creating loveable products
+- 🧹 minimalistic frontends
 - 🙋‍♀️ user experience
-- ⚙️ dev-ops automation
-
-
-### Working on
-
-<a href="https://github.com/dot-base"><img src=https://user-images.githubusercontent.com/17351844/194489911-9bde5663-630b-4a35-ad29-39bcb60b2602.png width="700px" /></a>
-<a href="https://github.com/friedow/search"><img src=https://user-images.githubusercontent.com/17351844/194490664-ef7704a7-b054-4567-98b2-bd2704636f94.png width="700px" /></a>
-
-
-### Some Stats
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=friedow&hide_border=true" alt="friedow" align="left" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=friedow&show_icons=true&count_private=true&hide_border=true" align="right" />
-    </td>
-  </tr>
-</table>
+- 🧑‍🏫 teaching software engineering
